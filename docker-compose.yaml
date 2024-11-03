@@ -21,5 +21,4 @@ services:
 networks:
   nginx-network:
     driver: bridge
-    options:
-      complex_option: value
+    
